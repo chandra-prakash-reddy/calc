@@ -3,7 +3,7 @@ package math
 import "fmt"
 
 func init() {
-	fmt.Println("This Project is using version math-module:0.1.1")
+	fmt.Println("This Project is using version math-module:1.1.2")
 }
 
 func Add(x, y int) int {
