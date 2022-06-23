@@ -1,3 +1,3 @@
-module github.com/rccsdevops/calc
+module github.com/chandra-prakash-reddy/calc
 
 go 1.16
